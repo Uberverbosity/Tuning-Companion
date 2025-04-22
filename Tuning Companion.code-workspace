@@ -1,10 +1,12 @@
 {
 	"folders": [
-		{
-			"path": ".."
-		}
+	  {
+		"path": ".."
+	  }
 	],
 	"settings": {
-		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+	  "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe"
 	}
-}
+  }
+  
