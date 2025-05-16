@@ -1,12 +1,12 @@
 {
-	"folders": [
-	  {
-		"path": ".."
-	  }
-	],
-	"settings": {
-	  "CodeGPT.apiKey": "CodeGPT Plus Beta",
-	  "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe"
-	}
+  "folders": [
+    {
+      "path": "Tuning-Companion"
+    }
+  ],
+  "settings": {
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe",
+    "terminal.integrated.cwd": "${workspaceFolder}"
   }
-  
+}
